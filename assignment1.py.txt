@@ -1,0 +1,5 @@
+# this is my last assignment for cne330. it prints "hello world!"
+# Author: Mustafa Alghuraibawi, maalghuraibawi@student.rtc.edu
+# create date: 10/21/2024
+
+print("Hello world!")
