@@ -1,4 +1,4 @@
-# this is my last assignment for cne330. it prints "Hello world!"
+# This is my last assignment for CNE310. It prints "Hello world!"
 # Author: Mustafa Alghuraibawi, maalghuraibawi@student.rtc.edu
 # create date: 10/21/2024
 
